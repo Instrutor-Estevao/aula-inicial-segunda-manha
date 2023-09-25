@@ -1,0 +1,24 @@
+h1{
+    color:aquamarine;
+}
+
+h2{
+    color: pink;
+}
+table{
+    background-color: brown;
+}
+
+th{
+    background-color: blue;
+}
+td{
+    color: aqua;
+}
+ul{
+    background-color: blanchedalmond;
+}
+ol{
+    background-color: blueviolet;
+    width: 50vw;
+}
